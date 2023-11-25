@@ -1,0 +1,71 @@
+body{
+    margin: 0px;
+}
+#navbar{
+    background-color: black;
+    text-align: center;
+}
+#navbar li{
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    width: 150px;
+    color: white;
+    text-transform: uppercase;
+    padding: 10px;
+    font-size: 14px;
+    margin-right: 5px;
+}
+#navbar li:hover{
+    background-color: gray;
+}
+#header~li{
+   display: inline-block;
+
+}
+.para1{
+    padding: 10px;
+}
+
+#mybiryani li{
+    display: inline-block;
+    width:250px;
+    padding: 10px;
+    text-align: center;
+    box-sizing: border-box;
+    border: 2px solid grey;
+    border-radius: 10px;
+}
+#mybiryani li h1{
+    width:100%;
+    height:100px
+}
+.rem:hover{
+    background-color: bisque;
+}
+
+#link li{
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    box-sizing: border-box;
+
+}
+.img1{
+    display: inline-block;
+    width:500px;
+    box-sizing: border-box;
+
+}
+.ms{
+    display: inline-block;
+    width:700px
+}
+#ch3{
+    display: inline-block;
+    width:50%;
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+.lastimg{
+    display:inline-block;
+}
